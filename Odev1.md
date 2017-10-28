@@ -10,11 +10,17 @@ Sınıf | Öğrenci İsmi  | Numara
 #  MPEMBA ETKİSİ
 ## Özet
 Sıcak sıvının soğuk sıvıya göre daha hızlı soğumasına Mpemba etkisi denir.Bu projede amacımız Mpemba etkisinin deney ve gözlem yoluyla incelemek ve etkiyen parametrelerin test etmektir. Bunun için arduino sıcaklık kontrollü  deneyler yapılacaktır. Deneylerde farklı kriterlerdeki sıvıların soğuma  süreleri karşılaştırıldığında hangi faktörlerin bu sürede etkili olduğu bulunmaya çalışılacaktır. Deneyde test edilecek parametreler aşağıda sıralanmıştır:
+
 -Sıvının Cinsi:Özellikle sıvının öz kütlesi ve buharlaşma öz ısısının Mpemba etkisindeki rolü incelenecektir
+
 -Sıvının Kütlesi
+
 -Kabın Kesit Alanı
+
 -Kabın Açık veya Kapalı Olma Durumu
+
 -Sıvı İçi Gaz:Sıvının içinde gaz çözünüp çözünmemesinin, çözündüyse gazın miktarı ve cinsinin Mpemba etkisindeki rolüne bakılacaktır.
+
 -Sıvının Konveksiyonel Akımı:a<n<b olmak üzere a santigrat dereceden n santigrat dereceye ısıtılmış sıvı ve b santigrat dereceden n santigrat dereceye soğutulmuş 2 sıvı üzerinde Mpemba etkisinin incelenmesi.
   Tüm bu parametrelerin sınanabilmesi için biri deney biri kontrol olmak üzere 2 grup üzerinde kontrollü deneyler yapılacaktır.Sıvılar soğutulurken içlerine koyulacak olan ısı sensörleri arduina'ya bağlanacak ve bu sayede hem hem belirli aralıkla soğuttular sıvıların sıcaklık değerleri okunabilecek hem de proje daha bilimsel hale gelecektir. 
 
