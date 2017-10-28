@@ -22,7 +22,7 @@ Sıcak sıvının soğuk sıvıya göre daha hızlı soğumasına Mpemba etkisi 
 Yabaş,M."Mpemba Etkisi: Sıcak su soğuk sudan daha önce donar"
 https://www.fizikist.com/mpemba-etkisi-sicak-su-soguk-sudan-daha-once-donar/
 Son erişim tarihi:24 Ekim 2017
-Türkay,K."Mpemba etkisi ve bilinmeyenleri"
+Türkay,K. "Mpemba etkisi ve bilinmeyenleri"
 https://www.gzt.com/hayat/mpemba-etkisi-ve-bilinmeyenleri-2596750
 Son erişim tarihi:25 Ekim 2017
 Elhan,A. "Neden Sıcak Su Soğuk Sudan Daha Hızlı Donar?—Fizikçiler Mpemba Etkisini Çözdüler"
