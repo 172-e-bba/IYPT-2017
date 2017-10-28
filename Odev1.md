@@ -25,7 +25,7 @@ Son erişim tarihi:24 Ekim 2017
 Türkay,K."Mpemba etkisi ve bilinmeyenleri"
 https://www.gzt.com/hayat/mpemba-etkisi-ve-bilinmeyenleri-2596750
 Son erişim tarihi:25 Ekim 2017
-Elhan,A."Neden Sıcak Su Soğuk Sudan Daha Hızlı Donar?—Fizikçiler Mpemba Etkisini Çözdüler"
+Elhan,A. "Neden Sıcak Su Soğuk Sudan Daha Hızlı Donar?—Fizikçiler Mpemba Etkisini Çözdüler"
 https://medium.com/turkce/nedens-cak-su-so-uk-sudan-daha-h-zl-donar-fizikciler-mpemba-etkisini-cozduler-1db1be97ae9b
 Son erişim tarihi:21 Ekim 2017
 Cornell University."O:H-O Bond Anomalous Relaxation Resolving Mpemba Paradox"
