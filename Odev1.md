@@ -26,21 +26,31 @@ Sıcak sıvının soğuk sıvıya göre daha hızlı soğumasına Mpemba etkisi 
 
 ## Kaynakçalar  
 Yabaş,M."Mpemba Etkisi: Sıcak su soğuk sudan daha önce donar"
+
 https://www.fizikist.com/mpemba-etkisi-sicak-su-soguk-sudan-daha-once-donar/
+
 Son erişim tarihi:24 Ekim 2017
 
 Türkay,K. "Mpemba etkisi ve bilinmeyenleri"
+
 https://www.gzt.com/hayat/mpemba-etkisi-ve-bilinmeyenleri-2596750
+
 Son erişim tarihi:25 Ekim 2017
 
 Elhan,A. "Neden Sıcak Su Soğuk Sudan Daha Hızlı Donar?—Fizikçiler Mpemba Etkisini Çözdüler"
+
 https://medium.com/turkce/nedens-cak-su-so-uk-sudan-daha-h-zl-donar-fizikciler-mpemba-etkisini-cozduler-1db1be97ae9b
+
 Son erişim tarihi:21 Ekim 2017
 
 Cornell University."O:H-O Bond Anomalous Relaxation Resolving Mpemba Paradox"
+
 https://arxiv.org/abs/1310.6514
+
 Son erişim tarihi:16 Ekim 2017
 
 Cornell University."A search for the Mpemba effect: When hot water freezes faster then cold water"
+
 https://arxiv.org/abs/1003.3185
+
 Son erişim tarihi:16 Ekim 2017
