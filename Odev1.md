@@ -23,7 +23,7 @@ Sıcak sıvının soğuk sıvıya göre daha hızlı soğumasına Mpemba etkisi 
 
 -Sıvının Konveksiyonel Akımı:a<n<b olmak üzere a santigrat dereceden n santigrat dereceye ısıtılmış sıvı ve b santigrat dereceden n santigrat dereceye soğutulmuş 2 sıvı üzerinde Mpemba etkisinin incelenmesi.
   
-  Tüm bu parametrelerin sınanabilmesi için biri deney biri kontrol olmak üzere 2 grup üzerinde kontrollü deneyler yapılacaktır.Sıvılar soğutulurken içlerine koyulacak olan ısı sensörleri arduina'ya bağlanacak ve bu sayede hem hem belirli aralıkla soğuttular sıvıların sıcaklık değerleri okunabilecek hem de proje daha bilimsel hale gelecektir. 
+  Tüm bu parametrelerin sınanabilmesi için biri deney biri kontrol olmak üzere 2 grup üzerinde kontrollü deneyler yapılacaktır.Sıvılar soğutulurken içlerine koyulacak olan ısı sensörleri arduina'ya bağlanacak ve bu sayede hem belirli aralıkla soğuttular sıvıların sıcaklık değerleri okunabilecek hem de proje daha bilimsel hale gelecektir. 
 
 ## Kaynakçalar  
 Yabaş,M."Mpemba Etkisi: Sıcak su soğuk sudan daha önce donar"
